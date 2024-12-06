@@ -1,0 +1,12 @@
+{
+  "name": "tourofjavascript",
+  "version": "1.0.0",
+  "description": "i hate js",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc src/main.ts "
+  },
+  "author": "",
+  "license": "ISC"
+}

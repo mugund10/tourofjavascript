@@ -1,2 +1,1 @@
-i hate javascript
-ok
+lol its typescript
